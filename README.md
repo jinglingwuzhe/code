@@ -1,4 +1,3 @@
-go_project
+项目介绍
 ==========
-
-go_project
+托管自己GOLANG的项目
